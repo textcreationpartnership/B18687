@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Lord Viscount Gormanston, in a writ of error, depending between Richard Coote Esq;, plantiff, and John Lynch, Defendant.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18687</idno><idno type="EEBO-CITATION">99886785</idno>
+  <idno type="VID">189437</idno>
+  <idno type="EEBO-PROQUEST">2240890990</idno>
+  
+            <idno type="STC">Wing C1106A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[14]</idno>
+            <idno type="STC">ESTC R226595</idno>
+            <idno type="PROQUEST">ocm99886785</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886785e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189437)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Lord Viscount Gormanston, in a writ of error, depending between Richard Coote Esq;, plantiff, and John Lynch, Defendant.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189437:1"/>
+            <head>THE CASE OF THE <hi>Lord Viscount</hi> Gormanston, <hi>in a Writ of Error, depending between</hi> Richard Coote <hi>Esq;, Plantiff, and</hi> John Lynch, <hi>Defendant.</hi>
+            </head>
+            <p>THE Lands in Question were the ancient Inheritance of <hi>Nicholas</hi> Lord Viscount <hi>Gormanston</hi> in <hi>Ireland,</hi> Grand-father to the present Lord <hi>Gormanston,</hi> and he and many more, having some part of their Estates in the possession of Trustees for them; and being also under some Outlaries or Attainders, which Cases (among many others) could not be all so foreseen, as to be plainly enough provided for by King <hi>Charles</hi> the Second's Declaration, and the first Act of Settlement of that Kingdom confirming it, therefore there was a second Act called the Act of Explaination of the first Act of Settlement, made in the thirteenth year of King <hi>Charles</hi> the Second, wherein his Majesty expressing a particular regard for the services of <hi>Jenico</hi> Lord <hi>Gormanston,</hi> Son to the said <hi>Nicholas,</hi> by a particular Clause in the said Act, the Commissioners appointed for the execution of that, and the former Act, were directed and ordered, to restore unto the said <hi>Jenico</hi> Lord Viscount <hi>Gormanston</hi> and his Heirs, all his Lands and Tenements which had not been restored to him before, by the former Act, whereof his Father or any person in trust for him, had been in Possession; and notwithstanding any Statute, Record, or Outlary against him, only the Heirs and Assigns of the late Earl of <hi>Mountrath,</hi> were first to be satisfied by an allot<g ref="char:EOLhyphen"/>ment of forfeited Lands, equal in quantity and number of profitable Acres to the said Lord Viscount's Lands, which the said Heirs or Assigns of the said Earl then had in Possession.</p>
+            <p>That the Commissioners appointed by the said Act, for the establishing and settling of the Kingdom of <hi>Ireland,</hi> did by their Decree made in <hi>January</hi> 1668, restore the said Viscount <hi>Gormanston</hi> to the Lands in Question, hav<g ref="char:EOLhyphen"/>ing first made an allotment of such forfeited Lands to the Plantiff (as Assignee to the said Earl of <hi>Mountrath</hi>) as he himself then brought in the List of, and desired to have alloted to him in lieu of the Lands taken from him, and restored to the Lord <hi>Gormanston,</hi> and which were in all respects of equal value and worth, and the Plantiff did accept thereof in full satisfaction, and he and those, who claim under him, have enjoyed the same ever since.</p>
+            <p>That soon after the said restored Lands were confirmed by Patent from King <hi>Charles</hi> the second, unto the said <hi>Jenico</hi> Lord Viscount <hi>Gormanston,</hi> who afterwards intermarried with the Daughter of the Lord Viscount <hi>Molline<g ref="char:EOLhyphen"/>aux,</hi> and in Consideration of a very considerable Marriage Portion, made a Settlement of the Lands in Question upon the issue of that Marriage, with divers remainders over, and charged the same with a Rent of five hund<g ref="char:EOLhyphen"/>red Pounds <hi>per annum</hi> for his Ladies Jointure, who is yet living.</p>
+            <p>That the said Lord Viscount <hi>Gormanston</hi> being since dead without Issue Male, the present Lord <hi>Gormanston</hi> his Nephew claimeth the Lands in Question, by way of Remainder (under the aforesaid Marriage Settlement) by virtue of which, the Lady <hi>Dowager</hi> claims also her Jointure of 500 <hi> l. per annum</hi> as a charge thereupon: And is in a great distress, and under great hardships, not having received one penny on account of her said Jointure, since the Plantiff took Possession of the Lands in Question, which is upwards of Seven Years.</p>
+            <p>That from the time of the Decree aforesaid, until such time as the late King <hi>James</hi> the Second came into <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (which is about 22 Years) the said Viscount <hi>Gormanston</hi> had quiet Possession of the Lands in Question, without any pretence or claim by the Plantiff, or any else. But in the late Revolution in <hi>Ireland,</hi> when all things were in confusion there, the Plantiff got again into Possession of these Lands so as aforesaid restored.</p>
+            <p>For the recovery of which, the present Lord <hi>Gormanston</hi>'s elder Brother (who is since dead without issue Male) brought an Ejectment in the Court of Common-pleas in <hi>Ireland,</hi> and there had Judgment, upon which Judgment, the now Plantiff brought his Writ of Error in the Court of King's-Bench in <hi>Ireland,</hi> and there the first Judgment was affirmed; whereupon, the Plantiff brought his Writ of Error in the Court of Kings-Bench in <hi>England,</hi> and there the Judgment was likewise affirmed by the consent of all the Judges; notwithstanding all which Proceedings, the Plantiff is not yet satisfied, but has brought his Writ of Error on the last Judgment.</p>
+            <p>And all the pretence the Plantiff hath hitherto made for title to the Lands in Question, in this long course of Law, is no more but this, That as he pretends those Lands which were alloted to him, (at his own desire,) by the Commissioners by way of Reprisal, are not equal in number of profitable Acres, to the Lands in Question, which are 1400 Acres, and the profitable Acres to him allotted are but 1100 Acres, and so he wants three hundred profitable Acres more, tho' he admits they are of as good and if not better value than the 1400 taken from him, and tho' King <hi>Charles</hi> his Declaration, and the first Act of Settlement orders the Reprisal to be of equal value and worth, and in Fact and Truth, the number of forfeited Acres allotted to the Plantiff by Reprisal, amounted to more than 2000; but he is pleased to say no more than 1100 Acres of them are profitable, altho' they were of his own choosing, and such as he himself asked as a recompence by way of Reprisal for the Lands in Question.</p>
+            <p>Now the necessary consequence of what the Plantiff seeks by this Suit, is a total subversion of both the Acts of Settlement in <hi>Ireland,</hi> by virtue of which so many thousand Families hold all their Estates in that Kingdom, for should a gap be once opened to let in Proofs and Allegations after thirty Years time, against the Decrees of the Commissioners appointed by the Acts of Settlement, which have been all confirmed by Letters Patents from the Crown, three parts in four of all the Estates in <hi>Ireland</hi> must be in danger, and there will be such multitudes of Suits in Law there, as must impoverish the whole Kingdom, and disturb and unsettle the same.</p>
+            <pb facs="tcp:189437:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
